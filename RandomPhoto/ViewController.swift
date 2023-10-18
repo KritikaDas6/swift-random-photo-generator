@@ -74,6 +74,5 @@ class ViewController: UIViewController {
         }
         imageView.image = UIImage(data: data)
     }
-
-}
+//https://www.appcoda.com/ios-contacts-framework/}
 
